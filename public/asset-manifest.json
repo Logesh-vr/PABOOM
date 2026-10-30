@@ -1,0 +1,122 @@
+[
+  {
+    "file": "audio/piano/A3.mp3",
+    "source": "https://tonejs.github.io/audio/salamander/A3.mp3",
+    "bytes": 74526,
+    "sha256": "8e108fe228e34e32f6b4e61efff732eec53058a9e6f05a8d8e719598b132c4f9"
+  },
+  {
+    "file": "audio/piano/A4.mp3",
+    "source": "https://tonejs.github.io/audio/salamander/A4.mp3",
+    "bytes": 61148,
+    "sha256": "a62df24a2c84cea8d18c1fa8aca7c18c877ba2b76a00a591256fa74d3ce54ac3"
+  },
+  {
+    "file": "audio/piano/A5.mp3",
+    "source": "https://tonejs.github.io/audio/salamander/A5.mp3",
+    "bytes": 45747,
+    "sha256": "9e5cee1fe9cf68b7193623d46a27c8956e572c1ff234ca0e11599b556050dec6"
+  },
+  {
+    "file": "audio/piano/C3.mp3",
+    "source": "https://tonejs.github.io/audio/salamander/C3.mp3",
+    "bytes": 78036,
+    "sha256": "bb70dd921d81b3dda561c19b5c029292ae5a6fba1947e364bf274218ce19a9d1"
+  },
+  {
+    "file": "audio/piano/C4.mp3",
+    "source": "https://tonejs.github.io/audio/salamander/C4.mp3",
+    "bytes": 78718,
+    "sha256": "689eaa4c2fd7f29a2cc0e386eec462156d523a87d701269e5e2458e66056f4f6"
+  },
+  {
+    "file": "audio/piano/C5.mp3",
+    "source": "https://tonejs.github.io/audio/salamander/C5.mp3",
+    "bytes": 68920,
+    "sha256": "2f5b0f7422063010fb379e684bfdf2daa3911dcd2251413d79fa2a53029fdc30"
+  },
+  {
+    "file": "audio/piano/C6.mp3",
+    "source": "https://tonejs.github.io/audio/salamander/C6.mp3",
+    "bytes": 28065,
+    "sha256": "0d3232edd13ba69fd5caf4a295060ae0fd533b8a1433ae0a038644d70715c907"
+  },
+  {
+    "file": "audio/piano/Ds3.mp3",
+    "source": "https://tonejs.github.io/audio/salamander/Ds3.mp3",
+    "bytes": 78717,
+    "sha256": "4fe73ea3f2c59a1dbfb35cff1d9d8a9e38cb12ef39a91a13083729544cdafed5"
+  },
+  {
+    "file": "audio/piano/Ds4.mp3",
+    "source": "https://tonejs.github.io/audio/salamander/Ds4.mp3",
+    "bytes": 73519,
+    "sha256": "663e8bb3e2d0fa23a30526dcd7ab0e42609c193c07025647ef46badcf81ec211"
+  },
+  {
+    "file": "audio/piano/Ds5.mp3",
+    "source": "https://tonejs.github.io/audio/salamander/Ds5.mp3",
+    "bytes": 58179,
+    "sha256": "bf71096e653ab7ceca3914b9fd44d8c27fe83c162564c5db34bd06b94eb14b8c"
+  },
+  {
+    "file": "audio/piano/Fs3.mp3",
+    "source": "https://tonejs.github.io/audio/salamander/Fs3.mp3",
+    "bytes": 77933,
+    "sha256": "960fefd90f56608b7edf958dadfeca893cff5744ab9034d61e419401fe45ce9c"
+  },
+  {
+    "file": "audio/piano/Fs4.mp3",
+    "source": "https://tonejs.github.io/audio/salamander/Fs4.mp3",
+    "bytes": 68219,
+    "sha256": "613652f5c96e35736ce6a46bc4ddb6ba1076d1fb16a35a4c22c14e67efdde57c"
+  },
+  {
+    "file": "audio/piano/Fs5.mp3",
+    "source": "https://tonejs.github.io/audio/salamander/Fs5.mp3",
+    "bytes": 51597,
+    "sha256": "ed2fdf543274ea72ddd4eb634a16356531a5f4040b2a60d34fb12a5c72cbf22f"
+  },
+  {
+    "file": "licenses/CC-BY-3.0.txt",
+    "source": "https://creativecommons.org/licenses/by/3.0/legalcode.txt",
+    "bytes": 19467,
+    "sha256": "e6bc9e9c474700b708f568bac9e5a8a9bcb2b1dad53442f5ba449fcb848b8e76"
+  },
+  {
+    "file": "licenses/MediaPipe-Apache-2.0.txt",
+    "source": "https://raw.githubusercontent.com/google-ai-edge/mediapipe/master/LICENSE",
+    "bytes": 12331,
+    "sha256": "8707eef0533987efc5b155d64761eeb6e20793f50b9bd1a68dad1cf4719d0ed8"
+  },
+  {
+    "file": "vision/hand_landmarker.task",
+    "source": "https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task",
+    "bytes": 7819105,
+    "sha256": "fbc2a30080c3c557093b5ddfc334698132eb341044ccee322ccf8bcf3607cde1"
+  },
+  {
+    "file": "vision/wasm/vision_wasm_internal.js",
+    "source": "@mediapipe/tasks-vision@0.10.32",
+    "bytes": 204816,
+    "sha256": "6f6b86509cf9e163ea1cfec7edc8cf53732699c04781e4c21c557c1ba402310e"
+  },
+  {
+    "file": "vision/wasm/vision_wasm_internal.wasm",
+    "source": "@mediapipe/tasks-vision@0.10.32",
+    "bytes": 11453626,
+    "sha256": "cb3ec20026a9aecc2a81a93c25630ceb5389297ddb7a5f0bd61dd09cde606b9b"
+  },
+  {
+    "file": "vision/wasm/vision_wasm_nosimd_internal.js",
+    "source": "@mediapipe/tasks-vision@0.10.32",
+    "bytes": 204669,
+    "sha256": "9f8fc960e363f0fb2f42f7937b97ae9cf9a5630490f71031fa90caa9bb121938"
+  },
+  {
+    "file": "vision/wasm/vision_wasm_nosimd_internal.wasm",
+    "source": "@mediapipe/tasks-vision@0.10.32",
+    "bytes": 10647962,
+    "sha256": "924274fcd5ac8985f6570a8573e7971b7bd2d580ba1b8f3beb0ba8f95db6347c"
+  }
+]
