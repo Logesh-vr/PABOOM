@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Mein Instrument — verification</title>
+    <style>
+      body {
+        font: 15px system-ui;
+        background: #f4f1e9;
+        color: #302e29;
+        max-width: 950px;
+        margin: 40px auto;
+        padding: 20px;
+      }
+      button {
+        padding: 12px 20px;
+        margin: 6px;
+      }
+      pre {
+        white-space: pre-wrap;
+        line-height: 1.6;
+      }
+      canvas {
+        width: 320px;
+        border: 1px solid #ccc;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Instrument verification</h1>
+    <p>
+      Development-only checks. Audio checks play short test notes through the
+      actual instrument engine.
+    </p>
+    <button id="audio">Run audio checks</button
+    ><button id="worker">Run tracking worker check</button
+    ><button id="fixtures">Run reference hand checks</button>
+    <pre id="results">Ready.</pre>
+    <script type="module" src="/verification/browser.ts"></script>
+  </body>
+</html>
