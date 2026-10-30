@@ -1,0 +1,11 @@
+* text=auto eol=lf
+*.cmd text eol=crlf
+*.wasm binary
+*.task binary
+*.mp3 binary
+*.jpg binary
+*.png binary
+
+# Preserve vendored bytes covered by the asset hash manifest.
+public/vision/wasm/* -text
+public/licenses/* -text
